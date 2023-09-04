@@ -1,10 +1,10 @@
 # Adam's manager READMEs
 
 # Disclaimer
-This document **MUST** not be read in any way that applies to any other group, division, team or manager of ${company_X}. You might find that my beliefs and style might not be wholly aligned and sometimes even incompatible with what you see throughout the business and that’s OK! This is a document on me, and it applies to me only.
+This document **MUST** not be read in any way that applies to any other group, division, team or manager of Booking.com. You might find that my beliefs and style might not be wholly aligned and sometimes even incompatible with what you see throughout the business and that’s OK! This is a document on me, and it applies to me only.
 
 # Welcome
-I’m very happy to welcome you. You will work at ${company_X}, where I hope it becomes a place where you’ll grow, have fun and contribute. I’m also hopeful that with your fresh ideas and enthusiasm, the journey gets easier for all of us.
+I’m very happy to welcome you. You will work at Booking.com, where I hope it becomes a place where you’ll grow, have fun and contribute. I’m also hopeful that with your fresh ideas and enthusiasm, the journey gets easier for all of us.
 
 I look forward to working with you. 
 
@@ -28,7 +28,7 @@ Few reasons for this document to exist:
 Btw, have you noticed the repo license is MIT? What can this possibly mean?
 
 # Hi, I'm Adam
-I was born in Miskolc, Hungary in 1991, where I lived for 23 years before moving to Budapest. I’m a partner to a wonderful woman that balances my life. As you will find, I’m a bit of a workaholic. I like to travel, to ride my motorcycle and to meet new people – people are the colour of life –, good food, watch TV series & films, read management books/news/articles/posts, motorbikes again (touring and/or enduro!), tennis, coding (yes I still code!), long walks and spending time with my girlfriend. In addition, I am addicted to dance Kizomba-Semba, Bachata and Salsa. My partner says that I spend all the time either moving from a screen to another – from my laptop to my personal phone, to my TV, to my kindle, etc., or planning motorcycle trips. You’ll find me listening to Sting, Gun's n Roses, Children of Distance, Halott Pénz, based on my actual mood!
+I was born in Miskolc, Hungary in 1991, where I lived for 23 years before moving to Budapest. I’m a partner to a wonderful woman that balances my life. As you will find, I’m a bit of a workaholic. I like to travel, to ride my motorcycle and to meet new people – people are the colour of life –, good food, watch TV series & films, read management books/news/articles/posts, motorbikes again (touring and/or enduro!), tennis, coding (yes I still code!), long walks and spending time with my friends. In addition, I am addicted to dance Kizomba/UrbanKiz, Bachata and Salsa. My partner says that I spend all the time either moving from a screen to another – from my laptop to my personal phone, to my TV, to my kindle, etc., or planning motorcycle trips. You’ll find me listening to Ren, Road, Sting, Gun's n Roses, Children of Distance, Halott Pénz, based on my actual mood!
 
 I’m a by-product of several variables: genetics, social relationships, the environment that I’m currently at and experience. Some of the traits that have been flagged to me over the years are forthright, upright, committed, hard-working, driven, obsessed by learning & winning and loyal.
 
@@ -46,7 +46,7 @@ If you’re curious about my professional experience, please visit my [LinkedIn 
 
 # My job
 As Software Engineering manager my job is to:
-* Help ${company_X} processes & technology so that we can have a scalable organisation by:
+* Help Booking.com processes & technology so that we can have a scalable organisation by:
   * Attract and retain world-class talent (that's you)
   * Coach teams and enable them to grow
   * Mentor ICs & managers
@@ -55,14 +55,14 @@ As Software Engineering manager my job is to:
 * Get everybody to focus on Product delivery through strong Software Engineering culture and best practices
 * Make tie-breaking decisions
 * Put in place checks & balances
-* Help to develop ${company_X} Engineering brand
-* Set context so that you can connect the dots on what ${company_X} needs, understand what’s your priority & focus and what you need to be successful
+* Help to develop Booking.com Engineering brand
+* Set context so that you can connect the dots on what Booking.com needs, understand what’s your priority & focus and what you need to be successful
 * Help you to build effective relationships with others in the company so you can be as self-sufficient as possible
 * Provide technical advice when required
 
 # How do I manage
 
-* You work for ${company_X} not for me, always optimise for the company
+* You work for Booking.com not for me, always optimise for the company
 * You’re my top priority, so should be every one that reports to you
 * I serve you, not the other way around
 * If I do something that’s impacting my ability to retain you, you would be doing me a huge favour if you let me know ASAP
@@ -197,7 +197,7 @@ Below you'll find my core beliefs.
 
 **I believe** managers are a necessary evil, that exists to scale the organisation.
 
-**I believe** (strongly!) on Conway’s law: “any organisation that designs a system will produce a design whose is a copy of the organisation communication structure”. ${company_X} future partially depends on how well and often we communicate, let’s optimise for it.
+**I believe** (strongly!) on Conway’s law: “any organisation that designs a system will produce a design whose is a copy of the organisation communication structure”. Booking.com future partially depends on how well and often we communicate, let’s optimise for it.
 
 **I believe** QA, Security, Ops, Culture and Product success is everyone responsibility!
 
@@ -227,7 +227,7 @@ I’ll be looking for:
 * Supports career development and discusses performance
 * Has a clear vision/strategy for the team
 * Has key technical skills to help advise the team
-* Can collaborate effectively across ${company_X}
+* Can collaborate effectively across Booking.com
 * Is a strong decision-maker
 * Is a fast-learner and constant seeks to improve one's skill
 * Foster engineering excellence through fostering pragmatic craftsmanship
